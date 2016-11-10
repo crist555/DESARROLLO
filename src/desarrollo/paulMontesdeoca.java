@@ -10,5 +10,5 @@ package desarrollo;
  * @author 10-LAB6
  */
 public class paulMontesdeoca {
-    //HOLA COMO ESTAS3
+    //HOLA COMO ESTAS
 }
