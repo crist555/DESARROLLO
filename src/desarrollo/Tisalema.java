@@ -12,6 +12,6 @@ package desarrollo;
  */
 public class Tisalema {
     public static void main(String[] args) {
-        sout
+        System.out.println("Como estan");
     }
 }
