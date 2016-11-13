@@ -13,5 +13,7 @@ package desarrollo;
 public class PRUEBA2 {
     //entrada 2
     //Paul montesdeoca
-    //Rodriguez Byron
+    //Rodriguez Byron./
+    //prueba 32
+    
 }
