@@ -11,7 +11,7 @@ package desarrollo;
  * @author Dj
  */
 public class PRUEBA2 {
-
+    //entrada 2
     //Paul montesdeoca
     //Rodriguez Byron
 }
